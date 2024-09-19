@@ -190,6 +190,6 @@ Happy coding! 😄
 </p>
 
 
-Credit: [Jai Shukla](https://github.com/lonewolf-hub)
+Credit: [Vishvajeet Kumar](https://github.com/iamkrVishu-hub)
 
 Last Edited on: 10/5/2024
