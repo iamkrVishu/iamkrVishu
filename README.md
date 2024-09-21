@@ -69,4 +69,31 @@ Happy coding! 😄
 #
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNL9gmNg9AaeH5Hj0C1A13skRf6vH5bOvG6A
+<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNL9gmNg9AaeH5Hj0C1A13skRf6vH5bOvG6A&usqp=CAU"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
+<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/9193/9193016.png"></code>
+<code><img height="40" width="40" src="https://static.cdnlogo.com/logos/n/11/nodejs.svg"></code>
+
+#
+
+<code><img height="40" width="40" src="https://logos-world.net/wp-content/uploads/2020/11/Firebase-Logo.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png"></code>
+<code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotype/512/vuejs-512.png"></code>
+</p>
+<br/>
+
+## <img src="https://media2.giphy.com/media/I8mX0f8h1Qo5G7ciJc/giphy.gif" width="25"> Joke of the Day
+<br>
+
+😄 Why do programmers hate nature? Because it has too many bugs!
+
+---
+
+## <img src="https://media.giphy.com/media/XzA1DD6nCqToPxxaK9/giphy.gif" width="25"> Let's Connect!
+- <a href="https://www.linkedin.com/in/kumarvishvajeetsingh/">LinkedIn</a>
+- <a href="https://github.com/iamkrVishu">GitHub</a>
+- <a href="https://twitter.com/iamkrVishu">Twitter</a>
+
+---
+
+Thank you for visiting my profile! 😊
