@@ -138,7 +138,7 @@ Happy coding! 😄
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=lonewolf-hub&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=iamkrVishu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <br>
@@ -146,8 +146,8 @@ Happy coding! 😄
 
 
 <p align="center">
-	<img  align="center" src="https://github-readme-stats.vercel.app/api?username=lonewolf-hub&theme=calm&show_icons=true&include_all_commits=false&count_private=false"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolf-hub&theme=calm&langs_count=15&layout=compact" />
+	<img  align="center" src="https://github-readme-stats.vercel.app/api?username=iamkrVishu&theme=calm&show_icons=true&include_all_commits=false&count_private=false"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkrVishu&theme=calm&langs_count=15&layout=compact" />
 </p>
 <p align="center">
 <!--- trophy (start) -->
