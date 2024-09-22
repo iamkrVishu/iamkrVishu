@@ -124,7 +124,7 @@ Happy coding! 😄
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf-hub&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkrVishu&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl"/>
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 </p>
 <br>
